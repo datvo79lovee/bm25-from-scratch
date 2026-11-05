@@ -1,0 +1,11 @@
+[project]
+name = "tep-kem"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beir>=2.2.0",
+    "pyserini>=2.4.0",
+    "requests>=2.34.2",
+]

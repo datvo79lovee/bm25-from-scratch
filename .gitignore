@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Local tools
+.playwright-mcp/
+
+# Downloaded datasets and generated indexes
+phanB/du_lieu/
